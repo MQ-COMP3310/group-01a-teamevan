@@ -1,0 +1,23 @@
+[
+{"model": "photoapp.photo", "pk": 1, "fields": 
+{"title": "Gentoo penguin", "description": "A penguin with an orange beak standing next to a rock.", "created": "2025-04-25T03:05:01.090Z", "image": "photos/william-warby-_A_vtMMRLWM_p6XNd5U.jpg"}}, 
+{"model": "photoapp.photo", "pk": 2, "fields": 
+{"title": "Common side-blotched lizard", "description": "A close up of a lizard on a rock.", "created": "2025-04-25T03:05:43.727Z", "image": "photos/javier-patino-loira-nortqDjv7ak_lEPhTEv.jpg"}}, 
+{"model": "photoapp.photo", "pk": 3, "fields": 
+{"title": "Griffin vulture flying", "description": "A large bird flying through a blue sky.", "created": "2025-04-25T03:06:10.757Z", "image": "photos/jordi-rubies-2wNkdL2oIyU_kyCE28K.jpg"}}, 
+{"model": "photoapp.photo", "pk": 4, "fields": 
+{"title": "Jaguar", "description": "A close up of a leopard near a rock.", "created": "2025-04-25T03:06:33.664Z", "image": "photos/jakub-neskora-jloJvr74Fcc_7gIJy3x.jpg"}}, 
+{"model": "photoapp.photo", "pk": 5, "fields": 
+{"title": "Japanese macaque", "description": "A monkey sitting on top of a wooden post.", "created": "2025-04-25T03:06:57.615Z", "image": "photos/william-warby-ndWikw_TPfc_3mpZqAq.jpg"}}, 
+{"model": "photoapp.photo", "pk": 6, "fields": 
+{"title": "Berlin", "description": "An exciting part of Berlin. This place covers so many beautiful attractions in the city. From that spot you are already on the famous Oberbaumbrücke, you can see Molecule Man, and right behind me, you can see Berlin\\'s beautiful skyline with the Fern", "created": "2025-04-25T03:07:25.377Z", "image": "photos/ahmed-ali-Zl7bVVMEfg_v8WYKWZ.jpg"}}, 
+{"model": "photoapp.photo", "pk": 7, "fields": 
+{"title": "Nakano", "description": "A group of people walking across a street.", "created": "2025-04-25T03:08:01.501Z", "image": "photos/hanvin-cheong-9rBj8QYOL1Q_UhlF9vD.jpg"}}, 
+{"model": "photoapp.photo", "pk": 8, "fields": 
+{"title": "Bologna", "description": "A bike parked next to a pole.", "created": "2025-04-25T03:08:25.201Z", "image": "photos/ekaterina-bogdan-BKJWsGB5h1s_rKONPRJ.jpg"}}, 
+{"model": "photoapp.photo", "pk": 9, "fields": 
+{"title": "Nazare, Portugal", "description": "Nazare, Portugal", "created": "2025-04-25T03:08:55.552Z", "image": "photos/damian-ochrymowicz-GZQ7tKmEd9c_IvZfS6l.jpg"}}, 
+{"model": "photoapp.photo", "pk": 10, "fields": 
+{"title": "Alcatraz Island", "description": "A close up of a green plant.", "created": "2025-04-25T03:09:23.550Z", "image": "photos/dima-dallacqua-U8TAGVPFJc4_pC1RHAs.jpg"}}, 
+{"model": "photoapp.photo", "pk": 11, "fields": 
+{"title": "Oporto, Portugal", "description": "A man sitting on a bench at a train station.", "created": "2025-04-25T03:09:53.374Z", "image": "photos/edgar-Q0g5Thf7Ank_E0t3rZ2.jpg"}}]
