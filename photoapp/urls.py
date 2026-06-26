@@ -1,3 +1,5 @@
+#gpt 5.5 assisted in the creation of this code
+
 '''Photoapp URL patterns'''
 
 from django.urls import path
@@ -8,7 +10,7 @@ from .views import (
     PhotoDetailView,
     PhotoCreateView,
     PhotoUpdateView,
-    PhotoDeleteView
+    PhotoDeleteView,
 )
 
 app_name = 'photo'
@@ -20,6 +22,8 @@ urlpatterns = [
 
     path('photo/<int:pk>/', PhotoDetailView.as_view(), name='detail'),
 
+    # Write endpoints. Access control is enforced in the views (LoginRequired
+    # for create; LoginRequired + ownership/admin for update and delete).
     path('photo/create/', PhotoCreateView.as_view(), name='create'),
 
     path('photo/<int:pk>/update/', PhotoUpdateView.as_view(), name='update'),
